@@ -3,5 +3,10 @@ Content-Type: application/json
 
 {
     "name":"marcelo",
-    "email":"teste@marcelo.com"
+    "email":"teste1@marcelo.com"
 }
+
+
+###
+
+GET http://localhost:3333/invites/5234039d-95b7-4ede-bea8-9db6ff35a025
